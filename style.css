@@ -9,5 +9,7 @@ button{
     border-radius: 4px;
     height: 30px;
     width: 80px;
-    color: purple;
+    color: blue;
+    font-size: 15px;
+    cursor: pointer;
 }
