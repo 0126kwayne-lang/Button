@@ -1,9 +1,9 @@
 body{
-    background-color: red;
+    background-color: darkblue;
 }
 
 button{
-    background-color: darkblue;
+    background-color: red;
     padding: 10px;
     border: 2px solid white;
     border-radius: 4px;
