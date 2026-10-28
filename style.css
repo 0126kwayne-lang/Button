@@ -1,5 +1,5 @@
 body{
-    background-color: darkblue;
+    background-color: gold;
 }
 
 button{
@@ -10,6 +10,6 @@ button{
     height: 30px;
     width: 80px;
     color: blue;
-    font-size: 15px;
+    font-size: 5px;
     cursor: pointer;
 }
